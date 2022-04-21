@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@angular-devkit/schematics": "^13.0.0",
-    "cpy": "^8.1.2",
+    "cpy": "^9.0.1",
     "dotenv": "9.0.2",
     "dotenv-expand": "5.1.0"
   },
